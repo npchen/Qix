@@ -8,6 +8,16 @@
 
 
 * [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
+ Unsupervised NN models [14]
+     Deep Belief Networks [13]
+     Stacked Auto-Encoders [16][39]
+     Denoising NN models [17
+[14] Bengio, Lamblin, Popovici, Larochelle, "Greedy Layer-Wise
+Training of Deep Networks", NIPS’2006
+[13] Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554.
+[16] Olshausen B a, Field DJ. Sparse coding with an overcomplete basis set: a strategy employed by V1? Vision Res. 1997;37(23):3311–25. Available at: http://www.ncbi.nlm.nih.gov/pubmed/9425546.
+[17] Vincent, H. Larochelle Y. Bengio and P.A. Manzagol, Extracting and Composing Robust Features with Denoising Autoencoders, Proceedings of the Twenty-fifth International Conference on Machine Learning (ICML‘08), pages 1096 - 1103, ACM, 2008.
+[39] D. H. Ballard. Modular learning in neural networks. In AAAI, pages 279–284, 1987.
 
 介绍:这是一篇介绍机器学习历史的文章，介绍很全面，从感知机、神经网络、决策树、SVM、Adaboost到随机森林、Deep Learning.
 
